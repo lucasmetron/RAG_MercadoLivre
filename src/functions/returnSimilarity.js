@@ -26,7 +26,7 @@ function cosineSimilarity(a, b) {
   return dot / (Math.sqrt(normA) * Math.sqrt(normB));
 }
 
-export async function searchSimilarChunks(question, limit = 3) {
+async function searchSimilarChunks(question, limit = 3) {
   const chunks = JSON.parse(fs.readFileSync(chunksFile, "utf-8"));
 
   const extractor = await pipeline(
@@ -52,17 +52,6 @@ export async function searchSimilarChunks(question, limit = 3) {
   return rankedChunks;
 }
 
-async function main() {
-  const results = await searchSimilarChunks("posso cancelar meu pedido?", 3);
-
-  console.log(
-    results.map((result) => ({
-      id: result.id,
-      source: result.source,
-      score: result.score,
-      content: result.content.slice(0, 200),
-    })),
-  );
-}
-
-main();
+module.exports = {
+  searchSimilarChunks,
+};
