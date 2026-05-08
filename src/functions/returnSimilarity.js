@@ -2,7 +2,12 @@ const fs = require("fs");
 const path = require("path");
 const { env, pipeline } = require("@huggingface/transformers");
 
-const chunksFile = path.join(__dirname, "..", "chunks-with-embeddings.json");
+const chunksFile = path.join(
+  __dirname,
+  "..",
+  "db",
+  "chunks-with-embeddings.json",
+);
 const cacheDir = path.join(__dirname, "..", "..", ".cache", "huggingface");
 
 env.cacheDir = cacheDir;
@@ -21,7 +26,7 @@ function cosineSimilarity(a, b) {
   return dot / (Math.sqrt(normA) * Math.sqrt(normB));
 }
 
-async function searchSimilarChunks(question, limit = 3) {
+export async function searchSimilarChunks(question, limit = 3) {
   const chunks = JSON.parse(fs.readFileSync(chunksFile, "utf-8"));
 
   const extractor = await pipeline(

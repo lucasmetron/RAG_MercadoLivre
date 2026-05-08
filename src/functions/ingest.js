@@ -3,22 +3,25 @@ const path = require("path");
 const { env, pipeline } = require("@huggingface/transformers");
 const { RecursiveCharacterTextSplitter } = require("@langchain/textsplitters");
 
-const dataDir = path.join(__dirname, "data");
-const outputFile = path.join(__dirname, "chunks-with-embeddings.json");
-const cacheDir = path.join(__dirname, "..", ".cache", "huggingface");
+const dataDir = path.join(__dirname, "..", "data");
+const outputFile = path.join(__dirname, "..", "db/chunks-with-embeddings.json");
+const cacheDir = path.join(__dirname, "..", "..", ".cache", "huggingface");
 
 env.cacheDir = cacheDir;
 
 async function main() {
   const splitter = new RecursiveCharacterTextSplitter({
-    chunkSize: 800,
+    chunkSize: 500,
     chunkOverlap: 150,
   });
 
   console.log("Carregando modelo local de embeddings...");
   console.log(`Cache do modelo: ${cacheDir}`);
 
-  const extractor = await pipeline("feature-extraction", "Xenova/all-MiniLM-L6-v2");
+  const extractor = await pipeline(
+    "feature-extraction",
+    "Xenova/all-MiniLM-L6-v2",
+  );
 
   const files = fs.readdirSync(dataDir).filter((file) => file.endsWith(".md"));
 
