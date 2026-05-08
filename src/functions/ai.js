@@ -1,4 +1,6 @@
 async function askToDeepSeak(prompt) {
+  const model = process.env.OPENROUTER_MODEL || "deepseek/deepseek-chat";
+
   const response = await fetch("https://openrouter.ai/api/v1/chat/completions", {
     method: "POST",
     headers: {
@@ -6,7 +8,7 @@ async function askToDeepSeak(prompt) {
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      model: "deepseek/deepseek-chat-v3-0324:free",
+      model,
       messages: [
         {
           role: "user",

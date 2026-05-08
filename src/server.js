@@ -19,10 +19,9 @@ app.post("/ask", async (req, res) => {
 
   res.json({
     question: question || null,
-    prompt: prompt,
     resp: resp,
-    answer: context,
-    similarity: similarity,
+    context,
+    similarity,
   });
 });
 
