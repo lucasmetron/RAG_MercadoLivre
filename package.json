@@ -1,10 +1,12 @@
 {
   "name": "rag_mercadolivre",
   "version": "1.0.0",
-  "description": "��#\u0000 \u0000R\u0000A\u0000G\u0000_\u0000M\u0000e\u0000r\u0000c\u0000a\u0000d\u0000o\u0000L\u0000i\u0000v\u0000r\u0000e\u0000\r\u0000 \u0000",
-  "main": "index.js",
+  "description": "Projeto inicial para estudar RAG com politicas do Mercado Livre.",
+  "main": "src/server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --check src/server.js",
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
   },
   "repository": {
     "type": "git",
