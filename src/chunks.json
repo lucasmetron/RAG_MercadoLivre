@@ -1,0 +1,562 @@
+[
+  {
+    "id": "anuncios.md-0",
+    "source": "anuncios.md",
+    "content": "# Regras de Anúncios\n\nOs anúncios devem apresentar informações claras, verdadeiras e suficientes para que o comprador entenda o produto ofertado.\n\nO vendedor é responsável pela legalidade, legitimidade e veracidade dos produtos, serviços e conteúdos que anuncia.\n\nAntes de anunciar, o vendedor deve verificar se o item cumpre as políticas do Mercado Livre e a legislação aplicável.\n\nProdutos proibidos são itens cuja oferta ou solicitação não é permitida por políticas internas do Mercado Livre ou por exigência legal.\n\nO Mercado Livre pode remover conteúdos que não respeitam as políticas de produtos proibidos ou qualquer lei vigente.\n\nAnunciar produto proibido pode resultar em suspensão parcial, temporária ou permanente da permissão para vender no site.",
+    "metadata": {
+      "source": "anuncios.md",
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 13
+        }
+      }
+    }
+  },
+  {
+    "id": "anuncios.md-1",
+    "source": "anuncios.md",
+    "content": "Anunciar produto proibido pode resultar em suspensão parcial, temporária ou permanente da permissão para vender no site.\n\nProdutos falsificados ou não autorizados para venda pelo fabricante são proibidos e podem gerar sanções na conta.\n\nProdutos que exigem registro, habilitação, permissão ou autorização legal só podem ser anunciados quando o vendedor possui a documentação exigida.\n\nItens sem certificação ou autorização necessária de órgãos como Anvisa, Anatel, Inmetro, Mapa, ANS ou outros órgãos competentes podem ser proibidos.\n\nMedicamentos, itens perigosos, produtos inflamáveis, explosivos, corrosivos ou tóxicos podem ter restrições severas de venda ou envio.\n\nNo Mercado Envios Full, há uma lista própria de produtos proibidos para armazenamento e envio pelos centros de distribuição.",
+    "metadata": {
+      "source": "anuncios.md",
+      "loc": {
+        "lines": {
+          "from": 13,
+          "to": 23
+        }
+      }
+    }
+  },
+  {
+    "id": "anuncios.md-2",
+    "source": "anuncios.md",
+    "content": "No Mercado Envios Full, há uma lista própria de produtos proibidos para armazenamento e envio pelos centros de distribuição.\n\nProdutos proibidos enviados ao Full não serão colocados à venda e deverão ser retirados pelo vendedor.\n\nAnúncios duplicados, títulos enganosos, categorias incorretas ou imagens incompatíveis podem prejudicar exposição, confiança e experiência do comprador.\n\nO conteúdo publicado em anúncios, clipes, anúncios patrocinados, mensagens, perguntas, respostas e opiniões também deve respeitar as políticas da plataforma.\n\nO vendedor deve manter estoque e condições reais de entrega compatíveis com o anúncio para evitar cancelamentos e reclamações.\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/Produtos-proibidos_1029",
+    "metadata": {
+      "source": "anuncios.md",
+      "loc": {
+        "lines": {
+          "from": 23,
+          "to": 33
+        }
+      }
+    }
+  },
+  {
+    "id": "anuncios.md-3",
+    "source": "anuncios.md",
+    "content": "Fonte oficial: https://www.mercadolivre.com.br/ajuda/Produtos-proibidos_1029\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/produtos-proibidos-envio-full_5200",
+    "metadata": {
+      "source": "anuncios.md",
+      "loc": {
+        "lines": {
+          "from": 33,
+          "to": 35
+        }
+      }
+    }
+  },
+  {
+    "id": "cancelamentos.md-0",
+    "source": "cancelamentos.md",
+    "content": "# Cancelamentos\n\nUm cancelamento é uma venda anulada que resulta na devolução do dinheiro ao comprador.\n\nO comprador pode cancelar uma compra em algumas situações antes do envio ou quando a plataforma habilita essa opção por atraso ou problema no pedido.\n\nSe o vendedor cancelar a compra por falta de estoque, arrependimento da venda ou problema operacional, o cancelamento pode afetar sua reputação.\n\nCada cancelamento feito pelo vendedor pode impactar a experiência do comprador e, em casos recorrentes, levar a sanções na conta.\n\nO Mercado Livre informa que cancelamentos feitos pelo vendedor podem levar à suspensão ou até ao cancelamento da conta, dependendo do caso.\n\nPara ser MercadoLíder, o vendedor não pode exceder 0,5% de cancelamentos sobre o total de vendas.",
+    "metadata": {
+      "source": "cancelamentos.md",
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 13
+        }
+      }
+    }
+  },
+  {
+    "id": "cancelamentos.md-1",
+    "source": "cancelamentos.md",
+    "content": "Para ser MercadoLíder, o vendedor não pode exceder 0,5% de cancelamentos sobre o total de vendas.\n\nA métrica de cancelamentos considera as vendas que o próprio vendedor decide cancelar.\n\nCancelamentos feitos diretamente pelo comprador não afetam a métrica de cancelamentos do vendedor.\n\nSe uma venda teve reclamação e depois foi cancelada pelo comprador, o impacto na reputação ocorre na variável de reclamações.\n\nQuando o vendedor cancela a compra, o comprador recebe reembolso do valor total pago dentro das regras da Compra Garantida.\n\nSe a compra gerou cashback e depois foi cancelada pelo vendedor, o Mercado Livre pode anular o valor de cashback na carteira Mercado Pago no momento do reembolso.",
+    "metadata": {
+      "source": "cancelamentos.md",
+      "loc": {
+        "lines": {
+          "from": 13,
+          "to": 23
+        }
+      }
+    }
+  },
+  {
+    "id": "cancelamentos.md-2",
+    "source": "cancelamentos.md",
+    "content": "Se o comprador não tiver saldo de cashback suficiente no momento da devolução, a plataforma pode descontar o valor do cashback e reembolsar o restante pago.\n\nCompras com indícios de fraude, inconsistências de pagamento ou problemas de segurança podem ser canceladas automaticamente pela plataforma.\n\nPedidos já enviados normalmente precisam seguir o fluxo de entrega, recusa do pacote ou devolução, conforme o status logístico.\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/15027\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/un-vendedor-cancel%C3%B3-mi-compra_15862\n\nFonte oficial: https://www.mercadolivre.com.br/compra-garantida/",
+    "metadata": {
+      "source": "cancelamentos.md",
+      "loc": {
+        "lines": {
+          "from": 25,
+          "to": 35
+        }
+      }
+    }
+  },
+  {
+    "id": "devolucao.md-0",
+    "source": "devolucao.md",
+    "content": "# Trocas e Devoluções\n\nAs devoluções no Mercado Livre são tratadas dentro do programa Compra Garantida quando a compra cumpre as condições de cobertura da plataforma.\n\nPara produtos novos, o comprador pode iniciar uma devolução em até 30 dias corridos a partir do recebimento.\n\nPara produtos usados, o prazo informado na política de devolução das compras é de 14 dias corridos a partir do recebimento.\n\nPara vendas, a central de ajuda também informa que produtos usados ou recondicionados podem ter prazo de até 7 dias a partir do recebimento para iniciar a devolução, dependendo do fluxo aplicado ao vendedor.\n\nAlimentos e bebidas para pessoas e pets podem ter prazo de devolução de 14 dias corridos a partir do recebimento, respeitando as condições da categoria.",
+    "metadata": {
+      "source": "devolucao.md",
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 11
+        }
+      }
+    }
+  },
+  {
+    "id": "devolucao.md-1",
+    "source": "devolucao.md",
+    "content": "Quando o motivo é arrependimento, produto diferente do pedido ou troca por tamanho, o item deve estar em perfeito estado, sem marcas de uso, com acessórios, manuais, etiquetas e embalagem original da marca.\n\nCelulares, notebooks, tablets e smartwatches devolvidos não devem ter senhas que impeçam o uso nem conter dados, fotos ou informações pessoais do comprador.\n\nQuando o produto apresenta defeito, está incompleto ou é diferente do anunciado, a devolução pode gerar custo para o vendedor e afetar sua reputação.\n\nQuando a devolução ocorre por arrependimento do comprador ou porque o produto não serviu, o frete da devolução tende a ser gratuito para o vendedor e não deve afetar a reputação.",
+    "metadata": {
+      "source": "devolucao.md",
+      "loc": {
+        "lines": {
+          "from": 13,
+          "to": 19
+        }
+      }
+    }
+  },
+  {
+    "id": "devolucao.md-2",
+    "source": "devolucao.md",
+    "content": "O comprador inicia a devolução pela opção \"Devolver grátis\" no detalhe da compra, quando essa opção estiver disponível.\n\nDepois de iniciar a devolução, o comprador deve embalar o produto de forma segura e usar a etiqueta ou código QR indicado pela plataforma.\n\nEm devoluções de produtos Full, o Mercado Livre pode revisar visualmente e funcionalmente o item nos centros de distribuição em até 3 dias úteis após a chegada.\n\nNa revisão de devolução Full, a plataforma verifica se o produto é o mesmo enviado, se possui acessórios, se está nas condições relatadas e se não apresenta sinais de mau uso.\n\nO Mercado Livre pode não cobrir o vendedor quando o produto devolvido apresenta as mesmas falhas ou itens faltantes já informados pelo comprador.",
+    "metadata": {
+      "source": "devolucao.md",
+      "loc": {
+        "lines": {
+          "from": 21,
+          "to": 29
+        }
+      }
+    }
+  },
+  {
+    "id": "devolucao.md-3",
+    "source": "devolucao.md",
+    "content": "O Mercado Livre pode não cobrir o vendedor quando o produto devolvido apresenta as mesmas falhas ou itens faltantes já informados pelo comprador.\n\nA cobertura ao vendedor pode ser negada se faltar documentação necessária na reclamação, como fotos que comprovem dano ou divergência.\n\nProdutos personalizados, itens excluídos do programa ou categorias com regras especiais podem ter devolução limitada às condições específicas da política.\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/16914\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/3285\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/19200\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/39332",
+    "metadata": {
+      "source": "devolucao.md",
+      "loc": {
+        "lines": {
+          "from": 29,
+          "to": 41
+        }
+      }
+    }
+  },
+  {
+    "id": "entrega.md-0",
+    "source": "entrega.md",
+    "content": "# Entrega\n\nAs entregas podem ser feitas por vendedores parceiros, Mercado Envios, Envios Full, Envios Flex, Coleta, Agências Mercado Livre ou outras modalidades disponíveis.\n\nO prazo de entrega exibido ao comprador depende da aprovação do pagamento, do prazo de preparação, da modalidade logística, da região e da rota disponível.\n\nO comprador pode acompanhar a compra pela seção \"Minhas compras\" no Mercado Livre ou pela seção \"Atividade\" quando a compra foi paga com conta Mercado Pago.\n\nNo detalhe da compra, a plataforma mostra o status do envio, previsão de chegada e eventuais alterações no rastreamento.\n\nO comprador também pode receber e-mails ou notificações quando houver atualizações ou mudanças no status do envio.",
+    "metadata": {
+      "source": "entrega.md",
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 11
+        }
+      }
+    }
+  },
+  {
+    "id": "entrega.md-1",
+    "source": "entrega.md",
+    "content": "O comprador também pode receber e-mails ou notificações quando houver atualizações ou mudanças no status do envio.\n\nSe o comprador pagou sem conta Mercado Pago em um contexto externo, pode ser necessário pedir ajuda ao vendedor para acompanhar o envio.\n\nQuando o Mercado Envios é usado, o tempo de envio do vendedor é comparado com o de outros vendedores da mesma categoria.\n\nEnvios feitos nas primeiras 24 horas úteis não impactam a reputação por atraso.\n\nPara manter reputação verde e continuar sendo MercadoLíder, o vendedor não deve exceder 6% de entregas com atraso.\n\nVendas combinadas como retirada pessoalmente com o comprador não afetam a métrica de tempo de envio.",
+    "metadata": {
+      "source": "entrega.md",
+      "loc": {
+        "lines": {
+          "from": 11,
+          "to": 21
+        }
+      }
+    }
+  },
+  {
+    "id": "entrega.md-2",
+    "source": "entrega.md",
+    "content": "Vendas combinadas como retirada pessoalmente com o comprador não afetam a métrica de tempo de envio.\n\nNo Envios Flex, o vendedor pode oferecer entrega no mesmo dia ou no dia seguinte usando logística própria ou serviço contratado.\n\nPara usar Envios Flex, o vendedor precisa ter Envios ativo nos anúncios, reputação amarela ou verde, serviço de entrega e capacidade operacional dentro da área de cobertura.\n\nSe o vendedor não cumprir a promessa de entrega no Envios Flex, o comprador pode ter a opção de cancelar a compra 48 horas depois do envio.\n\nEm caso de atraso com Mercado Envios, a plataforma informa o comprador sobre o status e pode permitir cancelamento se a entrega demorar demais.",
+    "metadata": {
+      "source": "entrega.md",
+      "loc": {
+        "lines": {
+          "from": 21,
+          "to": 29
+        }
+      }
+    }
+  },
+  {
+    "id": "entrega.md-3",
+    "source": "entrega.md",
+    "content": "Em caso de atraso com Mercado Envios, a plataforma informa o comprador sobre o status e pode permitir cancelamento se a entrega demorar demais.\n\nSe o produto chegar tarde demais, o comprador pode recusar o pacote no momento da entrega, conforme orientação da Compra Garantida.\n\nQuando a compra não é recebida dentro do prazo, o comprador pode abrir uma reclamação pela opção \"Tenho um problema\", dependendo do fluxo e da cobertura.\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/acompanhar-sua-compra_40194\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/15025\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/22381\n\nFonte oficial: https://www.mercadolivre.com.br/compra-garantida/",
+    "metadata": {
+      "source": "entrega.md",
+      "loc": {
+        "lines": {
+          "from": 29,
+          "to": 41
+        }
+      }
+    }
+  },
+  {
+    "id": "frete-gratis.md-0",
+    "source": "frete-gratis.md",
+    "content": "# Frete Grátis\n\nO frete grátis no Mercado Livre depende do preço do anúncio, da modalidade de envio, da reputação do vendedor, do peso e medidas do pacote e da rota disponível para entrega.\n\nEm anúncios de produtos novos de R$ 19 a R$ 78,99 com entrega padrão, o Mercado Livre pode oferecer frete grátis ao comprador.\n\nEm anúncios de produtos novos a partir de R$ 79, o vendedor normalmente oferece frete grátis rápido quando a distância, as dimensões e o peso permitem.\n\nO custo de Envios no Mercado Livre se aplica a todas as vendas elegíveis, mesmo quando o comprador paga pelo envio.\n\nO custo do envio é calculado de acordo com o peso, as medidas do produto na embalagem final e a faixa de preço do anúncio.",
+    "metadata": {
+      "source": "frete-gratis.md",
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 11
+        }
+      }
+    }
+  },
+  {
+    "id": "frete-gratis.md-1",
+    "source": "frete-gratis.md",
+    "content": "O custo do envio é calculado de acordo com o peso, as medidas do produto na embalagem final e a faixa de preço do anúncio.\n\nQuando a venda é realizada, o custo de envio é descontado da conta Mercado Pago do vendedor e aparece no detalhe da venda.\n\nOferecer frete grátis rápido em produtos abaixo de R$ 79 pode ser opcional; se o vendedor optar por isso, pagará a tarifa de envio correspondente.\n\nVendedores com melhor reputação podem receber descontos maiores nos custos de envio.\n\nPara reputação amarela, a documentação de custos de envio informa desconto de 60% nos custos aplicáveis, com os valores da tabela já considerando a isenção.\n\nPara reputação laranja ou vermelha, os custos podem ser maiores e os descontos menores ou inexistentes, conforme a tabela vigente.",
+    "metadata": {
+      "source": "frete-gratis.md",
+      "loc": {
+        "lines": {
+          "from": 11,
+          "to": 21
+        }
+      }
+    }
+  },
+  {
+    "id": "frete-gratis.md-2",
+    "source": "frete-gratis.md",
+    "content": "Para reputação laranja ou vermelha, os custos podem ser maiores e os descontos menores ou inexistentes, conforme a tabela vigente.\n\nEm algumas situações excepcionais, o vendedor pode oferecer envio com desconto em vez de frete grátis.\n\nLojas de supermercado podem ter regras próprias de frete grátis em carrinhos a partir de valor mínimo que varia por localização do comprador e rotas disponíveis.\n\nProdutos enviados por Full, Coleta e Agências Mercado Livre ou conveniadas seguem tabelas específicas de custo de envio.\n\nO vendedor deve conferir a tabela vigente antes de precificar o produto, pois tarifas, faixas de preço e condições promocionais podem mudar.\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/como-funcionam-os-fretes-gratis_16467",
+    "metadata": {
+      "source": "frete-gratis.md",
+      "loc": {
+        "lines": {
+          "from": 21,
+          "to": 31
+        }
+      }
+    }
+  },
+  {
+    "id": "frete-gratis.md-3",
+    "source": "frete-gratis.md",
+    "content": "Fonte oficial: https://www.mercadolivre.com.br/ajuda/como-funcionam-os-fretes-gratis_16467\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/40545\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/40547",
+    "metadata": {
+      "source": "frete-gratis.md",
+      "loc": {
+        "lines": {
+          "from": 31,
+          "to": 35
+        }
+      }
+    }
+  },
+  {
+    "id": "mercado-pago.md-0",
+    "source": "mercado-pago.md",
+    "content": "# Carteira Digital e Pagamentos\n\nO Mercado Pago é a carteira digital e solução de pagamentos usada em compras, vendas, recebimentos, transferências e checkout.\n\nCompradores podem usar dinheiro em conta Mercado Pago, cartões, Pix, boleto e outros meios disponíveis para pagar compras elegíveis.\n\nVendedores podem acompanhar pagamentos aprovados, pendentes, contestados ou devolvidos pela seção \"Atividade\".\n\nO Mercado Pago monitora transações para proteger compradores e vendedores contra fraude, contestação indevida e inconsistências de pagamento.\n\nQuando o pagamento é aprovado, o vendedor pode seguir com a entrega com mais segurança, respeitando o fluxo da operação.",
+    "metadata": {
+      "source": "mercado-pago.md",
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 11
+        }
+      }
+    }
+  },
+  {
+    "id": "mercado-pago.md-1",
+    "source": "mercado-pago.md",
+    "content": "Quando o pagamento é aprovado, o vendedor pode seguir com a entrega com mais segurança, respeitando o fluxo da operação.\n\nEm caso de contestação de cartão de crédito ou débito, o Mercado Pago pode pedir comprovante de entrega para proteger o vendedor.\n\nO Programa de Proteção ao Vendedor está disponível para situações específicas e, em geral, cobre venda de produtos físicos.\n\nPara compradores fora do Mercado Livre que pagaram uma compra online com Mercado Pago, o programa Compra Garantida do Mercado Pago pode cobrir casos de pacote não recebido.\n\nNa Compra Garantida do Mercado Pago, a cobertura exige que o comprador tenha iniciado sessão na conta Mercado Pago antes de finalizar a compra.",
+    "metadata": {
+      "source": "mercado-pago.md",
+      "loc": {
+        "lines": {
+          "from": 11,
+          "to": 19
+        }
+      }
+    }
+  },
+  {
+    "id": "mercado-pago.md-2",
+    "source": "mercado-pago.md",
+    "content": "Na Compra Garantida do Mercado Pago, a cobertura exige que o comprador tenha iniciado sessão na conta Mercado Pago antes de finalizar a compra.\n\nO programa Compra Garantida do Mercado Pago cobre produtos físicos e não cobre produtos digitais ou serviços.\n\nNo fluxo oficial consultado, a Compra Garantida do Mercado Pago para compradores não cobre pagamento por Pix e exige reclamação em até 14 dias depois do pagamento.\n\nQuando o comprador abre reclamação, deve acessar a seção \"Atividade\", selecionar a compra, escolher \"Tenho um problema\" e seguir as etapas solicitadas.\n\nSe o vendedor não resolve o problema, a plataforma pode devolver o dinheiro conforme os prazos do meio de pagamento.",
+    "metadata": {
+      "source": "mercado-pago.md",
+      "loc": {
+        "lines": {
+          "from": 19,
+          "to": 27
+        }
+      }
+    }
+  },
+  {
+    "id": "mercado-pago.md-3",
+    "source": "mercado-pago.md",
+    "content": "Se o vendedor não resolve o problema, a plataforma pode devolver o dinheiro conforme os prazos do meio de pagamento.\n\nEm pagamentos com Checkout, as tarifas para receber variam conforme meio de pagamento e prazo escolhido para disponibilização do dinheiro.\n\nRecebimentos por cartão, saldo em conta, boleto, Pix e Open Finance têm regras e tarifas próprias que devem ser conferidas na tabela vigente.\n\nAutenticação em duas etapas, validação de identidade e monitoramento de atividade ajudam a aumentar a segurança da conta.\n\nContas com movimentações suspeitas podem passar por validações adicionais antes de liberar recursos ou funcionalidades.\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/19310\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/compra-protegida-compradores_23229",
+    "metadata": {
+      "source": "mercado-pago.md",
+      "loc": {
+        "lines": {
+          "from": 27,
+          "to": 39
+        }
+      }
+    }
+  },
+  {
+    "id": "mercado-pago.md-4",
+    "source": "mercado-pago.md",
+    "content": "Fonte oficial: https://www.mercadolivre.com.br/ajuda/19310\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/compra-protegida-compradores_23229\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/33399",
+    "metadata": {
+      "source": "mercado-pago.md",
+      "loc": {
+        "lines": {
+          "from": 37,
+          "to": 41
+        }
+      }
+    }
+  },
+  {
+    "id": "pagamentos.md-0",
+    "source": "pagamentos.md",
+    "content": "# Pagamentos\n\nNo Mercado Livre, o comprador pode pagar por meios como cartão de crédito, cartão de débito, Pix, boleto, saldo em conta Mercado Pago e outras opções disponíveis no checkout.\n\nA disponibilidade de cada meio de pagamento pode variar conforme produto, conta, operação, análise de risco e configuração da plataforma.\n\nPagamentos por Pix costumam ser aprovados rapidamente, mas ainda podem passar por validações de segurança.\n\nPagamentos por boleto podem levar até 3 dias para compensação em alguns fluxos do Mercado Pago.\n\nPagamentos com cartão podem passar por análise antifraude antes da aprovação definitiva.\n\nQuando há suspeita de fraude, contestação ou inconsistência, a transação pode ser analisada, pausada ou recusada.",
+    "metadata": {
+      "source": "pagamentos.md",
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 13
+        }
+      }
+    }
+  },
+  {
+    "id": "pagamentos.md-1",
+    "source": "pagamentos.md",
+    "content": "Quando há suspeita de fraude, contestação ou inconsistência, a transação pode ser analisada, pausada ou recusada.\n\nO Mercado Pago monitora transações para proteger o dinheiro de compradores e vendedores.\n\nApós uma venda aprovada, o vendedor consegue acompanhar o status do pagamento pela seção \"Atividade\".\n\nEm vendas com Checkout do Mercado Pago, as tarifas e prazos de liberação variam conforme o meio de pagamento e o prazo escolhido para receber.\n\nEm vendas por Checkout, cartão de crédito e saldo em conta podem ter opções de dinheiro disponível na hora, em 14 dias ou em 30 dias, com tarifas diferentes.\n\nEm vendas por Checkout, Pix pode ter dinheiro disponível na hora com tarifa específica, conforme tabela vigente do Mercado Pago.",
+    "metadata": {
+      "source": "pagamentos.md",
+      "loc": {
+        "lines": {
+          "from": 13,
+          "to": 23
+        }
+      }
+    }
+  },
+  {
+    "id": "pagamentos.md-2",
+    "source": "pagamentos.md",
+    "content": "Em vendas por Checkout, Pix pode ter dinheiro disponível na hora com tarifa específica, conforme tabela vigente do Mercado Pago.\n\nEm vendas por Checkout, boleto pode ter tarifa fixa e dinheiro disponível em até 3 dias.\n\nEm caso de reclamação, o Mercado Pago pode mediar a situação entre comprador e vendedor.\n\nSe um cliente contestar uma cobrança no cartão, o vendedor pode precisar comprovar a entrega para receber o dinheiro da venda.\n\nO Programa de Proteção ao Vendedor do Mercado Pago cobre situações específicas de contestação ou fraude, principalmente para venda de produtos físicos.\n\nReembolsos no cartão de crédito podem aparecer na próxima fatura ou na fatura subsequente, dependendo da data de cancelamento e do emissor do cartão.",
+    "metadata": {
+      "source": "pagamentos.md",
+      "loc": {
+        "lines": {
+          "from": 23,
+          "to": 33
+        }
+      }
+    }
+  },
+  {
+    "id": "pagamentos.md-3",
+    "source": "pagamentos.md",
+    "content": "Quando o pagamento foi feito com dinheiro em conta Mercado Pago ou boleto, a devolução pode ocorrer para a conta Mercado Pago do comprador.\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/33399\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/19310\n\nFonte oficial: https://www.mercadolivre.com.br/compra-garantida/",
+    "metadata": {
+      "source": "pagamentos.md",
+      "loc": {
+        "lines": {
+          "from": 35,
+          "to": 41
+        }
+      }
+    }
+  },
+  {
+    "id": "reputacao.md-0",
+    "source": "reputacao.md",
+    "content": "# Sistema de Reputação\n\nA reputação do vendedor é a forma como o Mercado Livre avalia a qualidade do atendimento oferecido aos compradores.\n\nA reputação é dinâmica, calculada conforme o vendedor realiza vendas e atualizada diariamente.\n\nAs principais variáveis consideradas são reclamações, vendas canceladas pelo vendedor e envios com atraso.\n\nO termômetro de reputação usa cores que vão de vermelho, para reputação mais baixa, até verde, para reputação mais alta.\n\nVendedores sem vendas suficientes aparecem sem reputação ou com reputação cinza, pois ainda não há dados mínimos para análise.\n\nVendedores iniciantes geralmente não têm reputação até concluírem as primeiras 10 vendas nos últimos 365 dias.",
+    "metadata": {
+      "source": "reputacao.md",
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 13
+        }
+      }
+    }
+  },
+  {
+    "id": "reputacao.md-1",
+    "source": "reputacao.md",
+    "content": "Vendedores iniciantes geralmente não têm reputação até concluírem as primeiras 10 vendas nos últimos 365 dias.\n\nQuando o vendedor tem 60 ou mais vendas concluídas nos últimos 60 dias, a reputação é calculada com base na experiência oferecida nesse período.\n\nQuando o vendedor tem menos de 60 vendas concluídas nos últimos 60 dias, o cálculo considera o atendimento oferecido nos últimos 365 dias.\n\nPara ser MercadoLíder, o vendedor precisa manter bom desempenho nas variáveis de reputação e cumprir limites específicos.\n\nPara manter cor verde e continuar sendo MercadoLíder, o vendedor não deve exceder 6% de entregas com atraso, segundo a métrica de tempo de envio.\n\nPara ser MercadoLíder, o percentual de cancelamentos feitos pelo próprio vendedor não pode exceder 0,5% do total de vendas.",
+    "metadata": {
+      "source": "reputacao.md",
+      "loc": {
+        "lines": {
+          "from": 13,
+          "to": 23
+        }
+      }
+    }
+  },
+  {
+    "id": "reputacao.md-2",
+    "source": "reputacao.md",
+    "content": "Para ser MercadoLíder, o percentual de cancelamentos feitos pelo próprio vendedor não pode exceder 0,5% do total de vendas.\n\nCancelamentos feitos diretamente pelo comprador não afetam a métrica de cancelamentos do vendedor.\n\nSe uma venda teve reclamação e depois cancelamento pelo comprador, o impacto ocorre na variável de reclamação, não na métrica de cancelamento.\n\nEnvios feitos nas primeiras 24 horas úteis pelo Mercado Envios não impactam negativamente a reputação por atraso.\n\nVendas combinadas como retirada pessoalmente não afetam a métrica de tempo de envio.\n\nVendedores com reputação verde podem receber maior exposição nos resultados de busca e acessar benefícios de MercadoLíder.",
+    "metadata": {
+      "source": "reputacao.md",
+      "loc": {
+        "lines": {
+          "from": 23,
+          "to": 33
+        }
+      }
+    }
+  },
+  {
+    "id": "reputacao.md-3",
+    "source": "reputacao.md",
+    "content": "Vendedores com reputação verde podem receber maior exposição nos resultados de busca e acessar benefícios de MercadoLíder.\n\nVendedores com reputação amarela, laranja ou vermelha podem ter acesso ao Benefício de Reputação, quando elegíveis, para aparecer temporariamente com reputação verde claro.\n\nO Benefício de Reputação exige requisitos específicos, pode envolver depósito ou reserva de valor no Mercado Pago e não garante vendas.\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/como-funcionaareputacao-como-vendedor_1382\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/15025\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/15027\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/29528",
+    "metadata": {
+      "source": "reputacao.md",
+      "loc": {
+        "lines": {
+          "from": 33,
+          "to": 45
+        }
+      }
+    }
+  },
+  {
+    "id": "suporte.md-0",
+    "source": "suporte.md",
+    "content": "# Atendimento e Suporte\n\nO Mercado Livre usa fluxos de ajuda, reclamações e mediação para resolver problemas entre compradores e vendedores.\n\nQuando o comprador tem problema com uma compra, pode iniciar uma reclamação pela plataforma para informar o ocorrido.\n\nAo abrir uma reclamação, o Mercado Livre informa o vendedor e oferece ferramentas para que as partes busquem uma solução.\n\nO vendedor pode responder ao comprador, inserir informações de envio ou entrega, pedir intervenção da plataforma ou devolver o pagamento.\n\nSe comprador e vendedor não chegam a um acordo, a equipe do Mercado Livre ou Mercado Pago pode intervir para analisar o caso.",
+    "metadata": {
+      "source": "suporte.md",
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 11
+        }
+      }
+    }
+  },
+  {
+    "id": "suporte.md-1",
+    "source": "suporte.md",
+    "content": "Se comprador e vendedor não chegam a um acordo, a equipe do Mercado Livre ou Mercado Pago pode intervir para analisar o caso.\n\nEm reclamações por compra não recebida fora do Mercado Livre, quando a compra foi paga com conta Mercado Pago, o comprador pode abrir reclamação pela seção \"Atividade\".\n\nNo fluxo de Mercado Pago para compra não recebida, o vendedor pode ter prazo de 3 dias úteis para responder antes de uma possível intervenção.\n\nO programa Compra Garantida cobre compras elegíveis quando o produto não chega, quando o comprador se arrepende ou quando há problema com o produto.\n\nPara compras no Mercado Livre, a Compra Garantida informa cobertura de 28 dias a partir da compra quando o produto não chega.",
+    "metadata": {
+      "source": "suporte.md",
+      "loc": {
+        "lines": {
+          "from": 11,
+          "to": 19
+        }
+      }
+    }
+  },
+  {
+    "id": "suporte.md-2",
+    "source": "suporte.md",
+    "content": "Para compras no Mercado Livre, a Compra Garantida informa cobertura de 28 dias a partir da compra quando o produto não chega.\n\nPara arrependimento ou problema no produto, a cobertura pode chegar a 30 dias a partir do recebimento, conforme condições e categoria.\n\nPagamentos feitos fora do Mercado Livre, envios de dinheiro, pagamentos com QR e produtos excluídos podem ficar fora da cobertura da Compra Garantida.\n\nEm alguns casos, a plataforma pode solicitar fotos, comprovantes ou documentos para avaliar reclamações, devoluções e contestação de pagamento.\n\nVendedores podem solicitar exclusão de reclamações quando houver erro do comprador, problema de envio fora da responsabilidade do vendedor ou uso inadequado da reclamação como canal de contato, conforme regras específicas.",
+    "metadata": {
+      "source": "suporte.md",
+      "loc": {
+        "lines": {
+          "from": 19,
+          "to": 27
+        }
+      }
+    }
+  },
+  {
+    "id": "suporte.md-3",
+    "source": "suporte.md",
+    "content": "Nem toda reclamação pode ser excluída; a plataforma analisa requisitos, mensagens e evidências antes de remover impacto de reputação.\n\nO histórico de interações na plataforma ajuda a documentar acordos, prazos, comprovantes e decisões.\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/reclamacao-comprador_583\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/o-que-fazer-compra-nao-recebida_22447\n\nFonte oficial: https://www.mercadolivre.com.br/compra-garantida/\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/16789",
+    "metadata": {
+      "source": "suporte.md",
+      "loc": {
+        "lines": {
+          "from": 29,
+          "to": 39
+        }
+      }
+    }
+  },
+  {
+    "id": "vendedores.md-0",
+    "source": "vendedores.md",
+    "content": "# Programa de Vendedores\n\nVendedores no Mercado Livre são avaliados pela qualidade do atendimento, cumprimento de prazos, índice de reclamações e cancelamentos feitos pelo próprio vendedor.\n\nVendedores novos podem aparecer sem reputação até concluírem as primeiras 10 vendas nos últimos 365 dias.\n\nConforme o vendedor realiza vendas com boa experiência, sua reputação passa a ser calculada e exibida no termômetro da plataforma.\n\nVendedores com alto volume de vendas, faturamento e bom desempenho podem obter medalhas de MercadoLíder.\n\nSer MercadoLíder aumenta a confiança do comprador e pode trazer maior exposição nos resultados de busca.\n\nPara manter bom desempenho, o vendedor deve evitar cancelamentos por falta de estoque, atrasos no envio e reclamações recorrentes.",
+    "metadata": {
+      "source": "vendedores.md",
+      "loc": {
+        "lines": {
+          "from": 1,
+          "to": 13
+        }
+      }
+    }
+  },
+  {
+    "id": "vendedores.md-1",
+    "source": "vendedores.md",
+    "content": "Para manter bom desempenho, o vendedor deve evitar cancelamentos por falta de estoque, atrasos no envio e reclamações recorrentes.\n\nNo Mercado Envios, enviar em até 24 horas úteis ajuda a evitar impacto negativo na métrica de tempo de envio.\n\nO vendedor deve manter anúncios atualizados, estoque correto, descrição fiel e preço coerente com as condições reais de venda.\n\nQuando recebe uma reclamação, o vendedor deve responder pelo detalhe da operação, informar dados de envio ou entrega e buscar uma solução dentro da plataforma.\n\nO vendedor pode pedir intervenção do Mercado Livre quando não conseguir resolver uma reclamação diretamente com o comprador.\n\nO vendedor pode devolver o pagamento ao comprador dentro do fluxo da reclamação quando essa for a melhor solução.",
+    "metadata": {
+      "source": "vendedores.md",
+      "loc": {
+        "lines": {
+          "from": 13,
+          "to": 23
+        }
+      }
+    }
+  },
+  {
+    "id": "vendedores.md-2",
+    "source": "vendedores.md",
+    "content": "O vendedor pode devolver o pagamento ao comprador dentro do fluxo da reclamação quando essa for a melhor solução.\n\nVendedores que usam Mercado Pago têm suporte em casos de contestação de pagamento, fraude e reclamações.\n\nO Programa de Proteção ao Vendedor pode solicitar comprovantes de entrega quando um pagamento é contestado pelo comprador junto ao emissor do cartão.\n\nO Mercado Livre pode bloquear anúncios, limitar exposição ou aplicar sanções quando há violação de políticas, venda de produtos proibidos ou comportamento inadequado.\n\nO Benefício de Reputação pode ser disponibilizado a vendedores específicos com reputação amarela, laranja ou vermelha e sem restrições para vender.",
+    "metadata": {
+      "source": "vendedores.md",
+      "loc": {
+        "lines": {
+          "from": 23,
+          "to": 31
+        }
+      }
+    }
+  },
+  {
+    "id": "vendedores.md-3",
+    "source": "vendedores.md",
+    "content": "O Benefício de Reputação pode ser disponibilizado a vendedores específicos com reputação amarela, laranja ou vermelha e sem restrições para vender.\n\nO Benefício de Reputação é temporário, não garante vendas e pode gerar cobrança sobre vendas afetadas por reclamações, cancelamentos ou atraso durante o período de ativação.\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/como-funcionaareputacao-como-vendedor_1382\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/15025\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/reclamacao-comprador_583\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/19310\n\nFonte oficial: https://www.mercadolivre.com.br/ajuda/29528",
+    "metadata": {
+      "source": "vendedores.md",
+      "loc": {
+        "lines": {
+          "from": 31,
+          "to": 43
+        }
+      }
+    }
+  }
+]
